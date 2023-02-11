@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Viddy Virstandi Parmanayaka Andanawari Purnama</h1>
-<h3 align="center">I'm Viddy Virstandi Paramanayaka Andanawari Purnama from Indonesia, i'm 19 years old, and now i'm a student studying in Lithan</h3>
+<h1 align="left">Hi 👋, I'm Viddy Virstandi Parmanayaka Andanawari Purnama</h1>
+<h3 align="left">I'm Viddy Virstandi Paramanayaka Andanawari Purnama from Indonesia, i'm 19 years old, and now i'm a student studying in Lithan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ncullpurnama&label=Profile%20views&color=00ffee&style=flat-square" alt="ncullpurnama" /> </p>
 
